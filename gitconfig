@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cat9372197@gmail.com
+	name = kaichinchang
